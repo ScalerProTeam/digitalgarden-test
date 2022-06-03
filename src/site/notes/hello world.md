@@ -44,3 +44,8 @@ rating::
 [[Templates/MovieTemplate|MovieTemplate]]
 
 [[thihs my new note|thihs my new note]]
+
+
+> [!INFO] > Here's a callout block. > It supports **markdown** and [[Internal link|wikilinks]].
+
+> [!FAQ]- Are callouts foldable? > Yes! In a foldable callout, the contents are hidden until it is expanded.
