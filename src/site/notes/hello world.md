@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/hello-world/","tags":"gardenEntry","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"dg-home":true,"permalink":"/hello-world/","tags":"gardenEntry","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 
@@ -43,3 +43,4 @@ rating::
 
 [[Templates/MovieTemplate|MovieTemplate]]
 
+[[thihs my new note|thihs my new note]]
