@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thihs-my-new-note/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/thihs-my-new-note/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 
